@@ -1,0 +1,16 @@
+{
+  "name": "Live-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "IlgssonBraga <ilgssonbraga@gmail.com>",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

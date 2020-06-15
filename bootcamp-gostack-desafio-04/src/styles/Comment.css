@@ -1,0 +1,76 @@
+#responsebody{
+    margin-top: 15px;
+    display: flex;
+    width: 670px;
+    height: auto;
+}
+
+#authorresponseimg{
+    width: 30px;
+    height: 30px;
+}
+
+#authorresponseimg img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#contentresponse{
+    width: auto;
+    height: auto;
+    background: #EDECEC;
+    margin-left: 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    display: flex;
+    line-height: 20px;
+}
+
+#textresponse{
+    padding: 10px;
+    font-size: 13px;
+    
+}
+
+#textresponse b{
+    color: #3E69AE;
+}
+
+#textresponse b a{
+    color: #3E69AE;
+}
+
+#textresponse b a:hover{
+    text-decoration: underline;
+}
+
+#like {
+    font-size: 12px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+a.curtir{
+    color: #035090;
+}
+
+a.res{
+    color: #035090;
+}
+
+a.time{
+    color: gray; 
+}
+
+a.time:hover{
+    text-decoration: underline;
+}
+
+a.res:hover{
+    text-decoration: underline;
+} 
+
+a.curtir:hover{
+    text-decoration: underline;
+} 
